@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6227c0e-ebe5-4ae2-a16b-993f00853f66" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pvp5QTi6MqB75WZizykx574Diq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MessageBroker.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ProjectApplication.executor": "Run",
+    "git-widget-placeholder": "backend",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/korisnik/Desktop/Fakultet/4. Godina/7. Semestar/Napredno veb programiranje/project/project/backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora_aws"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.maksim.project.configuration" />
+      <recent name="com.maksim.project" />
+      <recent name="com.maksim.project.listener" />
+      <recent name="com.maksim.project.security" />
+      <recent name="com.maksim.project.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MessageBroker">
+    <configuration name="MessageBroker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.maksim.project.MessageBroker" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maksim.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.maksim.project.ProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MessageBroker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6227c0e-ebe5-4ae2-a16b-993f00853f66" name="Changes" comment="" />
+      <created>1733656220206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733656220206</updated>
+      <workItem from="1733656221306" duration="14159000" />
+      <workItem from="1733683446165" duration="3800000" />
+      <workItem from="1733747844443" duration="5867000" />
+      <workItem from="1733761781989" duration="3763000" />
+      <workItem from="1733824164912" duration="4014000" />
+      <workItem from="1733837508994" duration="4524000" />
+      <workItem from="1733912945477" duration="548000" />
+      <workItem from="1733944587636" duration="368000" />
+      <workItem from="1734118516158" duration="37000" />
+      <workItem from="1735469031668" duration="3405000" />
+      <workItem from="1735474307696" duration="8345000" />
+      <workItem from="1735487352936" duration="5796000" />
+      <workItem from="1735509358311" duration="5204000" />
+      <workItem from="1735515105881" duration="1408000" />
+      <workItem from="1735548236210" duration="1810000" />
+      <workItem from="1735553587789" duration="12073000" />
+      <workItem from="1735569714282" duration="3263000" />
+      <workItem from="1735745397735" duration="5796000" />
+      <workItem from="1735829376942" duration="5755000" />
+      <workItem from="1735999346952" duration="9256000" />
+      <workItem from="1736016997972" duration="9515000" />
+      <workItem from="1736073998892" duration="11510000" />
+      <workItem from="1736192142073" duration="1183000" />
+      <workItem from="1736260556167" duration="749000" />
+      <workItem from="1736341257534" duration="743000" />
+      <workItem from="1736359010072" duration="470000" />
+      <workItem from="1736361152224" duration="624000" />
+      <workItem from="1738322293904" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
